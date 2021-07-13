@@ -35,6 +35,11 @@ func GetBio() Bio {
 <p align="center">
   
   <a href="https://www.linkedin.com/in/pranali-pardeshi-9b3021194/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Pranali Pardeshi Linkedin Profile" height="30" width="30">
   </a>
+  <a href="https://pranalipardeshi30.medium.com">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="Pranali Pardeshi Medium Profile" height="30" width="30">
+  </a>
+	
+	
 
